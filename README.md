@@ -37,8 +37,8 @@ data-driven content, all wired through decoupled subsystems.
 
 ## 🔧 What I've worked with
 
-Python (FastAPI, asyncio, SQLite) · JavaScript · SQL ·
-C++ · Unreal Engine 5 · Arduino/ESP32 · Processing
+Python (FastAPI, asyncio, SQLite) · JavaScript · TypeScript · Haskell 
+· SQL · C++ · Unreal Engine 5 · Arduino/ESP32 · Processing
 
 Currently learning: React / whatever's next
 

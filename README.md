@@ -1,8 +1,8 @@
 # Hi, my name is Nguyen Thanh Long 👋
 
-Computer science student at Monash who enjoys building stuff, whether it's
-a Lego piece, a gambling website, or an empire. I grow by daring to explore
-the unknown: pick a project slightly too big and foreign for me, get stuck,
+Computer science student at Monash who enjoys putting stuff together to create something meaningful, whether it's
+a Lego piece, a gambling website, or an empire. I grow by daring to venture
+the unknown: pick a project slightly too ambitious and foreign for me, get stuck, learn
 get unstuck, repeat until it's tangible and undeniable.
 
 ## My magnum opus, yet
@@ -40,7 +40,7 @@ data-driven content, all wired through decoupled subsystems.
 Python (FastAPI, asyncio, SQLite) · JavaScript · TypeScript · Haskell 
 · SQL · C++ · Unreal Engine 5 · Arduino/ESP32 · Processing
 
-Currently learning: React / whatever's next
+Learning next: React, AWS / whatever's next
 
 ## 📫 Reach me
 

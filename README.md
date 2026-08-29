@@ -14,11 +14,11 @@ takes ~1 min to wake the server)*
 
 - Custom space-time A\* pathfinding engine: every horse is an agent that
   plans its route, blocks, and overtakes for real
-- Full-stack from scratch: FastAPI + SQLite backend, vanilla JS canvas
+- Full-stack I learned by myself: FastAPI + SQLite backend, vanilla JS canvas
   frontend, deployed on Render
 - Pari-mutuel betting with a built-in bookmaker, calibrated against
   1,000 Monte Carlo simulations of my own race engine
-- Status: WIP and growing (React migration, WebSockets, leaderboard next)
+- Status: WIP 
 
 ## Other things I've poured myself into
 

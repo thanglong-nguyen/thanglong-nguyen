@@ -1,7 +1,7 @@
 # Hi, my name is Nguyen Thanh Long 👋
 
 Computer science student at Monash who enjoys putting stuff together to create something meaningful, whether it's
-a Lego piece, a gambling website, or an empire. I grow by daring to venture
+a Lego piece, a gambling website, or a video game. I grow by daring to venture
 the unknown: pick a project slightly too ambitious and foreign for me, get stuck, learn,
 get unstuck, repeat until it's tangible and undeniable.
 
